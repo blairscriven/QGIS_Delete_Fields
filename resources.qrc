@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Delete_Duplicates" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
